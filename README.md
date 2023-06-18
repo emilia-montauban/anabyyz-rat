@@ -1,6 +1,6 @@
 <h1 align="center">Anabyyz Rat Public Release (1.0)</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-3.1-black" >
+  <img src="https://img.shields.io/badge/Version-1.0-black" >
   <img src="https://img.shields.io/badge/Language-VB.Net-blueviolet" >
   </a>
 </p>
