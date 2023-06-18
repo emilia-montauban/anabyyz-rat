@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> This is a Reverse of XWorm 3.1 Stub
+> This is a public version of Anabyyz
 
 <p align="center"> 
   <kbd>
