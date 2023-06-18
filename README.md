@@ -5,7 +5,6 @@
   </a>
 </p>
 
-> This is a public version of Anabyyz
 
 <p align="center"> 
   <kbd>
